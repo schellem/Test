@@ -1,3 +1,6 @@
+Great directions on getting started with GitHub
+	http://www.eqqon.com/index.php/Collaborative_Github_Workflow
+
 …or create a new repository on the command line
 
 echo "# Test" >> README.md

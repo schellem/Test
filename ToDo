@@ -15,3 +15,5 @@ Creating web apps with Bottle in Azure
 Visual Studio Python Tutorials
   https://www.youtube.com/watch?v=FJx5mutt1uk&index=6&list=PLReL099Y5nRdLgGAdrb_YeTdEnd23s6Ff
   
+Clone a local Repo
+  git clone  file://C:\pathToGitFolder

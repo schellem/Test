@@ -1,0 +1,19 @@
+Local Git Deployment to Azure App Service
+  https://docs.microsoft.com/en-us/azure/app-service-web/app-service-deploy-local-git
+  
+  This is complete direction to use GitHub from VS... I think
+  
+  
+Getting Started with Git - A Short History of Git
+  https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git
+  
+ 
+Creating web apps with Bottle in Azure
+  https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-python-create-deploy-bottle-app
+
+
+Visual Studio Python Tutorials
+  https://www.youtube.com/watch?v=FJx5mutt1uk&index=6&list=PLReL099Y5nRdLgGAdrb_YeTdEnd23s6Ff
+  
+Clone a local Repo
+  git clone  file://C:\pathToGitFolder
